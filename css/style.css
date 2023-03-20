@@ -1,0 +1,28 @@
+* {
+    background-color: black;
+}
+
+img {
+    height: 35vh;
+    border: 2px solid rgb(21, 193, 199);
+}
+
+.perif {
+    color: red;
+}
+
+.so {
+    color: green;
+}
+
+ul {
+    color: rgb(134, 50, 134);
+}
+
+ol {
+    color:chocolate;
+}
+
+h1 {
+    color:coral;
+}
